@@ -2,7 +2,7 @@
 Code for interfacing between Arduino and Ableton (via Max for Live - Cycling 74)
 
 See Youtube for further details on this solution:
-https://www.youtube.com/watch?v=j9JafffXhZY&t=8s
+https://youtu.be/pBRe2xz7dgQ
 
 # Installation
 1) Copy file in the "MaxForLive_code" directory to C:\Users\Birk2\Documents\Ableton\User Library\Presets\MIDI Effects\Max MIDI Effect
