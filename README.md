@@ -5,8 +5,8 @@ See Youtube for further details on this solution:
 https://youtu.be/pBRe2xz7dgQ
 
 # Installation
-1) Copy file in the "MaxForLive_code" directory to C:\Users\Birk2\Documents\Ableton\User Library\Presets\MIDI Effects\Max MIDI Effect
-2) Copy folder in the "Arduino_code" directory to C:\Users\Birk2\Documents\Arduino
+1) Copy file in the "MaxForLive_code" directory to Documents\Ableton\User Library\Presets\MIDI Effects\Max MIDI Effect
+2) Copy folder in the "Arduino_code" directory to Documents\Arduino
 3) Open Arduino IDE and program Arduino/Teensy/ESP32 with ArduinoAbletonEchoTest.ino (and LEAVE the device connected to the computer via USB)
 4) Open Ableton and on the left goto Catagories -> Max for Live -> Max MIDI Effect and move ArduinoAbletonEchoTest to a midi track
 
