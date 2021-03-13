@@ -11,7 +11,7 @@ https://youtu.be/pBRe2xz7dgQ
 4) Open Ableton and on the left goto Catagories -> Max for Live -> Max MIDI Effect and move ArduinoAbletonEchoTest to a midi track
 
 # How to use
-This simple example shows how to send an 8-bit control byte and a 16-bit value from Ableton to the Arduino, interpret it and send it back to Ableton. I tried to add as much as explanation as possible, so should be self-explanatory, but will also add a Youtube video for further explanations.
+This simple example shows how to send an 8-bit control byte and a 16-bit value from Ableton to the Arduino, interpret it and send it back to Ableton. I tried to add as much as explanation as possible, so should be self-explanatory, but see for my Youtube video above for further explanations.
 
 Have fun ;-)
 
