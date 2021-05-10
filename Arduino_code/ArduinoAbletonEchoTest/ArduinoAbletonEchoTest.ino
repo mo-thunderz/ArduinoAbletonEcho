@@ -17,6 +17,9 @@
 
 #define CONNECTED_TIMEOUT 500000 // 0.5 second time for LED to indicate a command has been received
 
+// for ESP32 define built-in LED (uncomment the statement below if you are using ESP32) -> Thanks to Ben Coleman for this addition :-)
+// #define LED_BUILTIN 2
+
 // internal variables
 int rx_state = 0;
 byte cc_type1;
